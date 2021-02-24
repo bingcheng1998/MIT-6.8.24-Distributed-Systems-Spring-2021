@@ -2,7 +2,7 @@
 
 ## 课前阅读
 
-[Mikito Takada](https://github.com/mixu/) 大佬提供了这篇写于2013年的文章：[Distributed systems, for fun and profit ](http://book.mixu.net/distsys/)。算是科普一下分布式系统领域的一些基础知识和基本理念。
+[Mikito Takada](https://github.com/mixu/) 大佬提供了这篇写于2013年的文章：[Distributed systems, for fun and profit ](http://book.mixu.net/distsys/) [[本地连接](./readings/Distributed System -- for fun and profit.md)]。算是科普一下分布式系统领域的一些基础知识和基本理念。
 
 通过这篇文章对分布式系统有了大致的轮廓之后，就可以开始刷Paper和Lab了。Schedule为我们规划了一个合适的路线来打怪升级，当周Lab的内容与布置的Paper或多或少都有联系，比如MapReduce，Fault-Tolerant，Paxos等，还有一些Paper是与当前流行的技术有关的话题，如Spark，Bitcoin。时间充裕的话静下心来花一整块时间读完一篇还是很有收获的，不懂的地方多用Google。最好是先对Paper所讨论的话题有一个大概的了解，可以通过维基百科等网站，比如Paxos，如果你不理解什么是一致性，容错，是没法读下去的。
 
