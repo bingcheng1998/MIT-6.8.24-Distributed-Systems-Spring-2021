@@ -37,6 +37,14 @@
 - [Lec 5：Raft基本](https://github.com/chaozh/MIT-6.824/issues/9)
 - [Lec6：Raft实现](https://github.com/chaozh/MIT-6.824/issues/10)
 
+## 指南
+
+- [Instructors' Guide to Raft (8 min. read)](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
+- [Students' Guide to Raft](https://thesquareplanet.com/blog/students-guide-to-raft/) (30 min. read)
+- [Raft Q&A](https://thesquareplanet.com/blog/raft-qa/) (13 min. read)
+
+
+
 ## 学完这门课后必须了解的概念
 
 1. MapReduce
